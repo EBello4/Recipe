@@ -53,8 +53,8 @@ dt {
 }
 
 img {
-    max-height: fit-content;
-    max-width: fit-content;
+    max-height: 500px;
+    max-width: 500px;
 }
 
 @import url("https://fonts.google.com/share?selection.family=Bebas%20Neue%7CMontserrat:ital,wght@0,400;0,700;1,400");
