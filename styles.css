@@ -5,16 +5,20 @@
 #rgba(122, 191, 191, .5)
 #eb5428 */
 
+body {
+    background: #7ABFBF;
+}
+
 h1 {
-    font-family: "Bebas Neue - Regular", Arial, Helvetica, sans-serif;
+    font-family: "Bebas Neue-Regular", Arial, Helvetica, sans-serif;
     font-size: 40px;
 }
 h2 {
-    font-family: "Bebas Neue - Regular", Arial, Helvetica, sans-serif;
+    font-family: "Bebas Neue-Regular", Arial, Helvetica, sans-serif;
     font-size: 30px;
 }
 h3 {
-    font-family: "Bebas Neue - Regular", Arial, Helvetica, sans-serif;
+    font-family: "Bebas Neue-Regular", Arial, Helvetica, sans-serif;
     font-size: 25px;
 }
 
@@ -44,7 +48,7 @@ dt {
     font-size: 16px;
 }
 
-li {
+.navigation, .directions, .accessibility {
     list-style-type: none;
 }
 
